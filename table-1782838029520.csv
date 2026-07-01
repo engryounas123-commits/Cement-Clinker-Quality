@@ -1,0 +1,7 @@
+﻿Tab,Module,What It Does
+📊 **Overview & KPIs**,"Key metrics cards, data preview, statistics, overall quality grade"
+📈 **Trends & Control**,"Interactive trend charts with USL/LSL control limits, mineral phase stacked area"
+🔬 **Process Capability**,"Cp/Cpk analysis table with color-coded status, CV% variability chart"
+🎯 **Coating & Burnability**,"Coating index calculation, burnability index, **28-day strength prediction**"
+💰 **Cost & Operations**,"Fuel efficiency, raw material utilization, **cost impact calculator**, temp vs F-CaO correlation"
+📄 **Report & Export**,"Auto-generated text report, CSV/text download, actionable recommendations"

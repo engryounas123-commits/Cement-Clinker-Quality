@@ -1,0 +1,6 @@
+﻿Method,How It Works
+**📂 File Upload**,"Excel (multi-sheet auto-detect), CSV"
+**📋 Copy & Paste**,"Tab, comma, space, semicolon separated"
+**📄 Word Document**,Extracts tables from `.docx`
+**📸 Image / Screenshot**,**OCR extracts data from photos/screenshots**
+**📷 Camera Capture**,**Live photo → instant OCR → analysis**
